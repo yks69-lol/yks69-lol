@@ -1,7 +1,7 @@
 # Hi there 👋 I'm YKS
 
 🇧🇩 From Bangladesh  
-Learning coding & ICT all by myself since 2024  
+Learning coding & ICT as a hobby since 2024  
 Main teachers: YouTube + free online courses + random tutorials on tech forum + reddit. 
 Tho Still a complete noob, but having fun building tiny things in my free time!
 
