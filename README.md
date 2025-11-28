@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Y.K SUNNY
 
-<!--
-**yks69-lol/yks69-lol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇩 From Bangladesh  
+Learning coding & ICT all by myself since 2024  
+Main teachers: YouTube + free online courses + random tutorials on forum + reddit 
+ Still a complete noob, but having fun building tiny things in my free time!
 
-Here are some ideas to get you started:
+I love tech, gadgets, mechanical stuff, and anything that looks cool when it works 😄  
+Here on GitHub I just dump my little hobby projects I make for fun. Nothing pro, just learning out loud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you see mistakes or something can be done better, please tell me! I really want to learn more.
+
+Thanks for stopping by! 💙
