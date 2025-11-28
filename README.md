@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Y.K SUNNY
+# Hi there 👋 I'm YKS
 
 🇧🇩 From Bangladesh  
 Learning coding & ICT all by myself since 2024  
